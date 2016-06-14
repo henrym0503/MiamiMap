@@ -1,0 +1,52 @@
+.header {
+   background-color: #ebf7bd;
+}
+
+/*ul {
+  text-align: right;
+  display: block;
+}*/
+.title {
+  text-align: center;
+}
+
+h1 {
+  color: #bcecdc;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 75%;
+}
+
+/*img {
+  width: 35%;
+  height: 35%;
+}*/
+
+section {
+  width: 29%;
+  float: left;
+  margin: 2% 2%;
+  text-align: center;
+  background-color: #f9e982;
+  border-radius: 10%;
+}
+
+.myBox {
+    border: none;
+    padding: 5px;
+    overflow: scroll;
+    height: 636px;
+}
+
+.map {
+    width: 100%;
+    display: block;
+}
+
+.contact-form {
+    width: 90%;
+    padding-left: 10%
+}
+
+.row {
+    margin-top: 20px;
+}
